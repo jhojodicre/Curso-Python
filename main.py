@@ -1,6 +1,12 @@
 # #Conceptos Principales de Python.
 # #Propiedad de la clase
 # #Metodos, o funciones de la clase.
+
+
+# Comentario de Jesse
+
+
+
 #
 # # Crear una Clase:
 #       En la siguiente clase que crearemos  vamos a declarar propiedades fijas.
